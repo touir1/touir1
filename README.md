@@ -5,7 +5,7 @@
 <a target="_blank" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-  <img align="right" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=450>
 </picture>
   <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif#gh-light-mode-only">-->
 </a>
