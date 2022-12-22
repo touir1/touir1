@@ -4,7 +4,7 @@
 
 <a target="_blank" align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img align="right" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </picture>
   <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif#gh-light-mode-only">-->
