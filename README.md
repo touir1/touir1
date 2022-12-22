@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=touir1&theme=highcontrast&date_format=j+M+Y" width=350 />
+    <img src="https://streak-stats.demolab.com/?user=touir1&theme=highcontrast&date_format=j+M+Y" width="45%" />
   </a>
   <a href="[https://git.io/streak-stats](https://github.com/anuraghazra/github-readme-stats)">
-    <img src="https://github-readme-stats.vercel.app/api?username=touir1&show_icons=true&theme=radical&count_private=true&include_all_commits=true"  width=350 />
+    <img src="https://github-readme-stats.vercel.app/api?username=touir1&show_icons=true&theme=radical&count_private=true&include_all_commits=true"  width="45%" />
   </a>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touir1&theme=radical" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touir1&theme=radical" />
