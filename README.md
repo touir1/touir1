@@ -13,8 +13,7 @@
 </div>
 
 
-<div style="margin-top:10px;margin-bottom:10px;">
-</br>
+<div style="margin-top:10px;">
 <a target="_blank" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
@@ -33,7 +32,7 @@
 - 📫 How to reach me **touir.mat@gmail.com**
 
 </div>
-
+</br>
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touir1&theme=radical" />
