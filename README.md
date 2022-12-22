@@ -13,7 +13,8 @@
 </div>
 
 
-<div>
+<div style="margin-top:10px;margin-bottom:10px;">
+</br>
 <a target="_blank" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
