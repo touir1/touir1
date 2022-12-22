@@ -3,7 +3,11 @@
 ![github-header-image](https://user-images.githubusercontent.com/16899792/209237828-f5d6d2ea-3ac0-4c08-a41b-5af8d313770e.png)
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif#gh-light-mode-only">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img align="right" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</picture>
+  <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif#gh-light-mode-only">-->
 </a>
 </br>
 
