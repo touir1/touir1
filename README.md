@@ -21,7 +21,7 @@
 </picture>
   <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif#gh-light-mode-only">-->
 </a>
-</br></br></br>
+</br></br>
 
 - 🔭 I’m currently working at <a href="https://www.oddo-bhf.com/en" target="_blank">Oddo BHF</a>
 
