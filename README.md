@@ -13,7 +13,7 @@
 </div>
 
 
-
+<div>
 <a target="_blank" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **touir.mat@gmail.com**
 
-
+</div>
 
 
 <p align="center">
