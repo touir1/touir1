@@ -27,7 +27,7 @@
 </a>
 </br></br>
 
-- 🔭 I’m currently working at <a href="https://www.oddo-bhf.com/en" target="_blank">Oddo BHF</a>
+- 🔭 I’m currently working at <a href="https://www.vallourec.com" target="_blank">Vallourec</a>
 
 - 🌱 My main traits are curiosity, persistence and creativity
 
