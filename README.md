@@ -40,7 +40,7 @@
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touir1&theme=radical" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=touir1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10&hide_border=true" width="335" />
+  <img src="https://github-readme-stats.vercel.app/api?username=touir1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10&hide_border=true" width="335" />
   <img src="https://streak-stats.demolab.com/?user=touir1&theme=radical&date_format=j+M+Y&border_radius=10&hide_border=true" width="340" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touir1&theme=radical" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=touir1&theme=radical&utcOffset=1" />
